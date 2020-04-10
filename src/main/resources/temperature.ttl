@@ -3,6 +3,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ex:Sensor1 a ex:Sensor ;
-		ex:temperature 32.790 ;
+		ex:temperature "aadaa" ;
 		ex:humadity 59.27 .
 		
